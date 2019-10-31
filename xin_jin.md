@@ -2,9 +2,9 @@ Xin Jin
 ============
 
 -------------------     ----------------------------
-17027 NE 120th ST           okjinxin@gmail.com
-Redmond WA                         206-422-2230
-98052                           
+Cell: 206-422-2230       Email: okjinxin@gmail.com
+
+17027 NE 120th ST, Redmond, WA, 98052                           
 -------------------     ----------------------------
 
 Summary
@@ -15,6 +15,7 @@ Experience
 ----------
 
 **04/2011-12/2015 Senior UI/UX Designer, Baidu, Beijing China**
+
 Leader designer of mobile development department of Baidu (NASDAQ: BIDU) - leading search engine company in China. Optimizing UI function role and process in the overall product development design circle. Defined and designed the video & voice search experience in Baidu mobile products. Conducted & improved the consistency of Baidu Browser on all platforms. Updating Baidu Browser Logo and VI systems, increasing brand identification, generating brand promotion materials to improve brand popularity.
 * Redesigned V6.0 of Baidu Browser, increased installation by 25% to more than 100M users
 * Built Funny-Planet project, increased daily active users by 35% by applying emotional design
@@ -53,6 +54,9 @@ Portfolio
     * [dribbble.com/Xin_Jin](https://dribbble.com/Xin_Jin)
 
 Skill Sets
-:   **Tools:** Adobe Suite, Sketch, Principle, Figma
-:   **Visual:** Drawing, Sketching, Illustration, Animation 
-:   **Design:** Wireframe, HCD, HCI, Prototyping, User research, Usability, UI Patterns
+:   
+    **Tools:** Adobe Suite, Sketch, Principle, Figma
+:   
+    **Visual:** Drawing, Sketching, Illustration, Animation
+:   
+    **Design:** Wireframe, HCD, HCI, Prototyping, User research, Usability, UI Patterns
